@@ -39,7 +39,7 @@ This project implements a machine learning-based prediction system for assessing
 
 git clone https://github.com/keke5-bio/HVLNM_PTC_Prediction.git
 
-cd HVLNM_PTC_Predictio
+cd HVLNM_PTC_Prediction
 
 \# Install dependencies
 
