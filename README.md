@@ -37,9 +37,9 @@ This project implements a machine learning-based prediction system for assessing
 
 \# Clone the repository
 
-git clone https://github.com/your-username/thyroid-cancer-prediction.git
+git clone https://github.com/keke5-bio/HVLNM_PTC_Prediction.git
 
-cd thyroid-cancer-prediction
+cd HVLNM_PTC_Predictio
 
 \# Install dependencies
 
