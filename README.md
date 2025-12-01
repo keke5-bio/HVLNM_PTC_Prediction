@@ -27,7 +27,7 @@ This project implements a machine learning-based prediction system for assessing
 
 \### Prerequisites
 
-\- Python 3.9+
+\- Python 3.9
 
 \- Git
 
