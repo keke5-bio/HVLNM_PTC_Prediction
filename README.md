@@ -15,9 +15,9 @@ This project implements a machine learning-based prediction system for assessing
 
 \## 📊 Model Performance
 
-\- \*\*Test Set AUC\*\*: 0.7496
+\- \*\*Test Set AUC\*\*: 0.729
 
-\- \*\*Test Set Accuracy\*\*: 0.7285
+\- \*\*Test Set Accuracy\*\*: 0.715
 
 \- \*\*Best Iteration\*\*: 11
 
